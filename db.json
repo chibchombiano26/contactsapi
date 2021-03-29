@@ -1,0 +1,14 @@
+ {
+  "contacts": [
+    { "id": 1, "name": "Jose" },
+    { "id": 2, "title": "Pablo" },
+    { "id": 3, "title": "Carlos" },
+    { "id": 4, "title": "Andres" }
+  ],
+  "detail": [
+    { "id": 1, 
+      "street": "Fake address",
+      "phone number": "+1 76876877687"
+    }
+  ]
+}
